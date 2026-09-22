@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0134-gas-station](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0134-gas-station) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Greedy
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0278-first-bad-version) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Interactive
