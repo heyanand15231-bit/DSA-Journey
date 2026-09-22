@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0134-gas-station](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0134-gas-station) |
 | [0268-missing-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
