@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0134-gas-station) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0134-gas-station) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
