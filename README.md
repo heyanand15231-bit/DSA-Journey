@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0041-first-missing-positive) |
 | [0134-gas-station](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0134-gas-station) |
+| [0268-missing-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -53,4 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
