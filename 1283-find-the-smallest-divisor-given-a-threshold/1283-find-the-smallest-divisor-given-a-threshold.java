@@ -1,31 +1,26 @@
 class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
-        int s = 1;
-        int e = 0;
-        int ans = -1;
-
-        for (int ele : nums) {
-            e = Math.max(e, ele);
+        int start=1, end=0;
+        for(int e : nums){
+            end = Math.max(e, end);
         }
-
-        while (s <= e) {
-            int m = s + (e - s) / 2;
-            if (isPossible(nums, threshold, m)) {
-                ans = m;
-                e = m - 1;
-            } else {
-                s = m + 1; 
+        int ans=-1;
+        while (start <= end){
+            int mid = start+(end-start)/2;
+            if (isValid(nums, threshold, mid)){
+                ans = mid;
+                end = mid-1;
+            }else{
+                start = mid+1;
             }
         }
         return ans;
     }
-
-    private boolean isPossible(int[] nums, int threshold, int divisor) {
+    private boolean isValid(int[] nums, int threshold, int capacity) {
         int sum = 0;
-        for (int ele : nums) {
-            sum += (ele + divisor - 1) / divisor;
-            if (sum > threshold) return false;
+        for (int num : nums) {
+            sum += Math.ceil(num*1.0/capacity);
         }
-        return true;
+        return sum <= threshold;
     }
 }
