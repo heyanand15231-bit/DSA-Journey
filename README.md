@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2404-most-frequent-even-element](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/2404-most-frequent-even-element) |
 ## Greedy
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2404-most-frequent-even-element](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/2404-most-frequent-even-element) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0169-majority-element) |
+| [2404-most-frequent-even-element](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/2404-most-frequent-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
