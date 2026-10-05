@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0035-search-insert-position) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0409-longest-palindrome) |
 ## Binary Search
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
