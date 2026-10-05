@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0066-plus-one) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0053-maximum-subarray) |
 ## Counting
 |  |
@@ -145,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0056-merge-intervals) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
