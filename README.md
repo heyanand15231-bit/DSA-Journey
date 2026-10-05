@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0066-plus-one) |
 | [0134-gas-station](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0134-gas-station) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
