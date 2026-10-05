@@ -1,20 +1,19 @@
 import java.util.*;
 
-public class Solution {
+class Solution {
     public int subarraySum(int[] nums, int k) {
-        Map<Integer, Integer> prefixMap = new HashMap<>();
-        prefixMap.put(0, 1); 
+        HashMap<Integer, Integer> map = new HashMap<>();
+        map.put(0, 1);
 
-        int count = 0, prefixSum = 0;
+        int count = 0;
+        int sum = 0;     
 
         for (int num : nums) {
-            prefixSum += num;
-
-            if (prefixMap.containsKey(prefixSum - k)) {
-                count += prefixMap.get(prefixSum - k);
+            sum += num;
+            if (map.containsKey(sum - k)) {
+                count += map.get(sum - k);
             }
-
-            prefixMap.put(prefixSum, prefixMap.getOrDefault(prefixSum, 0) + 1);
+            map.put(sum, map.getOrDefault(sum, 0) + 1);
         }
 
         return count;
