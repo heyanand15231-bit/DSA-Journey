@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -87,11 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0041-first-missing-positive) |
+| [0141-linked-list-cycle](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
