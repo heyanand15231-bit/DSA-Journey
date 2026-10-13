@@ -19,13 +19,13 @@ class Solution {
         }
         if (count < k) return head;
 
-        ListNode prev = null, next = null;
+        ListNode prev = null, temp = null;
         curr = head;
         for (int i = 0; i < k; i++) {
-            next = curr.next;
+            temp = curr.next;
             curr.next = prev;
             prev = curr;
-            curr = next;
+            curr = temp;
         }
         head.next = reverseKGroup(curr, k);
         return prev;
