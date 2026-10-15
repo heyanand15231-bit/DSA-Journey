@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0053-maximum-subarray) |
 ## Counting
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0409-longest-palindrome](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
@@ -234,4 +237,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
