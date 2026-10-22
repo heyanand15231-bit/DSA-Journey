@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0409-longest-palindrome) |
 ## Binary Search
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0032-longest-valid-parentheses) |
+| [0179-largest-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
