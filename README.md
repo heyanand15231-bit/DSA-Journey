@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0875-koko-eating-bananas) |
@@ -183,12 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0901-online-stock-span) |
 ## Enumeration
 |  |
