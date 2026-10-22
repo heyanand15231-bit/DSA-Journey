@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0268-missing-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -159,12 +161,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0771-jewels-and-stones) |
