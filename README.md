@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0085-maximal-rectangle) |
 | [0134-gas-station](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0169-majority-element) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0085-maximal-rectangle) |
 ## Counting
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0234-palindrome-linked-list) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0901-online-stock-span) |
@@ -293,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0078-subsets) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
