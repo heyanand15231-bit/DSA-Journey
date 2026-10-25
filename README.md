@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0409-longest-palindrome) |
