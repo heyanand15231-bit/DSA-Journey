@@ -1,13 +1,10 @@
 class Solution {
     public int findTheWinner(int n, int k) {
-        List<Integer> list = new ArrayList<>();
-        for (int i = 1; i <= n; i++) list.add(i);
-
-        int idx = 0;
-        while (list.size() > 1) {
-            idx = (idx + k - 1) % list.size();
-            list.remove(idx);
+        int winner = 0; // base case: only 1 player
+        for (int i = 1; i <= n; i++) {
+            winner = (winner + k) % i;
         }
-        return list.get(0);
+        return winner + 1; // +1 because players are 1-indexed
     }
 }
+
