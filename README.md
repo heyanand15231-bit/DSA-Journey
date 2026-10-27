@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0268-missing-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0771-jewels-and-stones) |
