@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0415-add-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sorting
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0415-add-strings) |
 | [0771-jewels-and-stones](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0844-backspace-string-compare) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
