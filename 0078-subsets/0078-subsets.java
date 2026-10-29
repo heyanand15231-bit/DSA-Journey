@@ -13,25 +13,20 @@ class Solution {
     public void solve(List<List<Integer>> ans, List<Integer> curr, int[] nums, int i) {
         // Base Case
         if (i == nums.length) {
+            //List<Integer> temp = new ArrayList<>();
+            //for(int ele : curr) temp.add(ele);
+            // ans.add(temp);
             ans.add(new ArrayList<>(curr));
             return;
         }
         
-        // Include nums[i]
+        // Include 
         curr.add(nums[i]);
         solve(ans, curr, nums, i + 1);
         
-        // Exclude nums[i]
+        // Exclude
         curr.remove(curr.size() - 1);
         solve(ans, curr, nums, i + 1);
     }
     
-    public static void main(String[] args) {
-        Solution obj = new Solution();
-        int[] nums = {1, 2, 3};
-        List<List<Integer>> subsets = obj.subsets(nums);
-        for (List<Integer> sub : subsets) {
-            System.out.println(sub);
-        }
-    }
 }
