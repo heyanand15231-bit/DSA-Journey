@@ -13,10 +13,10 @@ class Solution {
     public void solve(List<List<Integer>> ans, List<Integer> curr, int[] nums, int i) {
         // Base Case
         if (i == nums.length) {
-            //List<Integer> temp = new ArrayList<>();
-            //for(int ele : curr) temp.add(ele);
-            // ans.add(temp);
-            ans.add(new ArrayList<>(curr));
+            List<Integer> temp = new ArrayList<>();
+            for(int ele : curr) temp.add(ele);
+            ans.add(temp);
+           // ans.add(new ArrayList<>(curr));
             return;
         }
         
