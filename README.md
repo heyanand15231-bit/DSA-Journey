@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0141-linked-list-cycle) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0168-excel-sheet-column-title) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0058-length-of-last-word) |
