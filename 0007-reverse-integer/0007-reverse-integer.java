@@ -1,10 +1,17 @@
+
 class Solution {
-    public int reverse(int x) {
-        long rev = 0;
-        while (x != 0) {
-            rev = rev * 10 + x % 10;
-            x /= 10;
+    public int reverse(int number) {
+        long reversed = 0;
+
+        while (number != 0) {
+            int digit = number % 10;  
+            reversed = reversed * 10 + digit;
+            number /= 10;         
         }
-        return (rev < Integer.MIN_VALUE || rev > Integer.MAX_VALUE) ? 0 : (int) rev;
+
+        if (reversed < Integer.MIN_VALUE || reversed > Integer.MAX_VALUE) {
+            return 0;
+        }
+        return (int) reversed;
     }
 }
