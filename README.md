@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0066-plus-one) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0090-subsets-ii) |
 ## Matrix
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
