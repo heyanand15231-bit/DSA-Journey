@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0234-palindrome-linked-list) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0409-longest-palindrome) |
