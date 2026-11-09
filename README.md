@@ -349,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0037-sudoku-solver) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
