@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0169-majority-element) |
 ## Dynamic Programming
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -353,4 +355,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0181-employees-earning-more-than-their-managers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/heyanand15231-bit/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
